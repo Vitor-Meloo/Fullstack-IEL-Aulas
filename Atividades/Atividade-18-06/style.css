@@ -1,0 +1,88 @@
+body{
+    margin-top: 15px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+#banner-header{
+    background-color:#9842D9 ;
+    padding: 160px;
+}
+
+#header{
+    background-color:#8B0681;   
+    padding: 5px; 
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#center{
+    font-size: 70px;
+    text-align: justify;
+    margin-top: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#flexlinecenter{
+    background-color: #8B0681;
+    padding: 5px;
+    width: 300px;
+    margin-left: 2770px;
+    margin-top: 0px;
+
+}
+
+#center h1{
+    font-size: 80px;
+    text-align: center;
+    color: #9842D9;
+}
+
+#equip h1{
+    font-size: 80px;
+    text-align: center;
+    color: #9842D9;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+#flexequip{
+    background-color: #8B0681;
+    padding: 5px;
+    width: 300px;
+    margin-left: 2770px;
+}
+
+.team {
+    padding: 20px;
+    text-align: center;
+
+}
+
+.team-member {
+    display: inline-block;
+    margin: 0 100px;
+    text-align: center;
+    font-size: 80px;
+    margin-top: 40px;
+    
+}
+
+.circle {
+    width: 400px;
+    height: 400px;
+    background-color: #9B30FF;
+    border-radius: 50%;
+    margin: 0 auto 10px;
+}
+
+footer {
+    background-color: #800080;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    font-size: 55px;
+    margin-top: 190px;
+}
